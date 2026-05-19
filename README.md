@@ -215,7 +215,8 @@ Karena seluruh sistem berbasis aset statis dan ONNX Runtime.
 
 # 👨‍💻 Penulis
 
-## Nama Kamu
+## vikir
+github : https://vikirsendiri.github.io/pendeteksi_roda_empat/
 
 **AI Engineer | Computer Vision Enthusiast**
 
