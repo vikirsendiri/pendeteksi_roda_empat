@@ -117,10 +117,10 @@ Pipeline meliputi:
 
 | Metric    | Score  |
 | --------- | ------ |
-| Precision | 0.9412 |
-| Recall    | 0.9087 |
-| mAP50     | 0.9589 |
-| F1-Score  | 0.9246 |
+| Precision | 0.9001 |
+| Recall    | 0.8267 |
+| mAP50     | 0.8666 |
+| F1-Score  | 0.8618 |
 
 ---
 
